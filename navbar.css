@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    background-color: #3d56e7;
+    padding: 5px;
+    color: white;
+}
+.nav p{
+    font-size:30px;
+    font-weight:bold;
+    display: inline-block;
+    margin-left: 100px;
+}
+.list{
+    list-style: none;
+    display: inline-block;
+    margin-left: 250px;
+    
+}
+.list li{
+    display:inline-block;
+    margin-left:50px;
+}
+.list a{
+    text-decoration: none;
+    color:white;
+}
+.log{
+     display: inline-block;
+    margin-left: 600px;
+    
+}
+.log a{
+    text-decoration: none;
+    color: white;
+}
